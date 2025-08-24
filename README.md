@@ -69,9 +69,9 @@ Will be pinned here as **first flagship repo** 🌟
 ## 🛰️ Connect
 <div align="center">
   
-[![Mail Badge](https://img.shields.io/badge/Email-contact-blue?style=flat-square)](mailto:your.email@example.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-connect-informational?style=flat-square)](https://linkedin.com/in/your-handle)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-visit-success?style=flat-square)](https://your-portfolio.example)
+[![Mail Badge](https://img.shields.io/badge/Email-raveends70%40gmail.com-red?style=flat-square&logo=gmail)](mailto:raveends70@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-connect-informational?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-handle)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Under%20Construction-yellow?style=flat-square&logo=vercel)](https://example.com/under-construction)
 
 </div>
 
